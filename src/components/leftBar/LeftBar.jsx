@@ -15,7 +15,7 @@ import Fund from "../../assets/13.png";
 import { AuthContext } from "../../context/authContext";
 import { useContext } from "react";
 
-const LeftBar = () => {
+const LeftBar =() => {
 
   const { currentUser } = useContext(AuthContext);
 

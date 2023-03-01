@@ -6,7 +6,7 @@ import "./login.scss";
 const Login = () => {
   const { login } = useContext(AuthContext);
 
-  const handleLogin = () => {
+  const handleLogin =() => {
     login();
   };
 

@@ -1,7 +1,7 @@
 import { Link } from "react-router-dom";
 import "./register.scss";
 
-const Register = () => {
+const Register = ()=> {
   return (
     <div className="register">
       <div className="card">

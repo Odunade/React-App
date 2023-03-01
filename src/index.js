@@ -13,4 +13,4 @@ root.render(
       </AuthContextProvider>
     </DarkModeContextProvider>
   </React.StrictMode>
-);
+)
